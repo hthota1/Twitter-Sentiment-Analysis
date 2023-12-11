@@ -43,10 +43,10 @@ For any additional questions, please contact our team:
 
 
 ## Repository Structure
-├── data                                <- Data file used in this project
-├── images                              <- Contains images and graphs used in this project sourced from code and outside source
-├── gitignore.txt                       <- Contains list of files to be ignored from Github
-├── Twitter_Sentiment_Analysis.ipynb    <- Narrative documentation of analysis in Jupyter notebook
-├── README.md                           <- The top-level README for reviewers of this project
-└──presentation.pdf                     <- PDF version of project presentation
-                          
+├── data                           <- Data file used in this project  
+├── images                         <- Contains images and graphs used in this project sourced from code and outside source  
+├── gitignore.txt                  <- Contains a list of files to be ignored from Github  
+├── Twitter_Sentiment_Analysis.ipynb <- Narrative documentation of the analysis in a Jupyter notebook  
+├── README.md                      <- The top-level README for reviewers of this project  
+└── presentation.pdf               <- PDF version of the project presentation  
+
