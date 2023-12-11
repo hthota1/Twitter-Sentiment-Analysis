@@ -35,9 +35,18 @@ Further analysis is essential to guide Apple's Marketing and Product Design team
 * Conduct device or product specific analysis - iPad, iPhone and iTunes
 
 ## For more information
-The complete analysis can be found in our Jupyter Notebook and our presentation.
+The complete analysis can be found in our [Jupyter Notebook](https://github.com/hthota1/Twitter-Sentiment-Analysis/blob/main/Twitter_Sentiment_Analysis.ipynb) and [our presentation](https://github.com/hthota1/Twitter-Sentiment-Analysis/blob/main/presentation.pdf). 
+
+
 For any additional questions, please contact our team:
-Harshitha Thota, Namsoo Lee, Wes Smolen
+[Harshitha Thota](https://github.com/hthota1) | [Namsoo Lee](https://github.com/likej82) | [Wes Smolen](https://github.com/WSmolen)
 
-## Reposity Structure
 
+## Repository Structure
+├── data                                <- Data file used in this project
+├── images                              <- Contains images and graphs used in this project sourced from code and outside source
+├── gitignore.txt                       <- Contains list of files to be ignored from Github
+├── Twitter_Sentiment_Analysis.ipynb    <- Narrative documentation of analysis in Jupyter notebook
+├── README.md                           <- The top-level README for reviewers of this project
+└──presentation.pdf                     <- PDF version of project presentation
+                          
